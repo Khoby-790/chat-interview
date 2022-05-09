@@ -1,1 +1,1 @@
-export const SOCKET_URL = process.env.SOCKET_URL || "http://localhost:8001";
+export const SOCKET_URL = process.env.SOCKET_URL || "https://nameless-taiga-58763.herokuapp.com/";
